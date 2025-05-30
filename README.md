@@ -29,7 +29,7 @@
   - milvus
 - **docker(learning)**
 ### 📚 近期学习计划
-- **CUDA编程**
+- **CUDA编程（learning）**
 - **大模型分布式训练**
   - Deepspeed
   - Megatron-LM
