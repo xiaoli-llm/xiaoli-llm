@@ -10,6 +10,7 @@
 - **PPO**
 - **大模型推理加速**
   - vLLM
+  - TensorRT-LLM
 - **Flash attention**
 - **大模型预训练**
 - **大模型部署**
@@ -30,9 +31,17 @@
 - **docker(learning)**
 ### 📚 近期学习计划
 - **CUDA编程（learning）**
+  - cublas
+  - cutlass
 - **大模型分布式训练**
   - Deepspeed
   - Megatron-LM
+  - 量化
+  - 稀疏化
+  - 低秩训练
+  - 算子融合
+  - 并行优化
+  - 多层级存储
 - **自制大模型推理框架**
 - **数据工程（learning）**
   - 数据清洗
@@ -48,7 +57,8 @@
  - **端侧落地**
  - **多模态大模型视觉信息语义分割与编码**
  - **视觉与语言的语义对齐，多模态任务联合训练**
- - **对主流大模型的原理和差异有深入的理解：GPT、chatGPT、T5、GLM、PaLM、LLaMA**
+ - **对主流大模型的原理和差异有深入的理解：GPT、chatGPT、T5、GLM、PaLM、LLaMA、qwen**
  - **强化学习**
  - **RL对齐RLHF**
  - **模型评估**
+ - **Shell脚本的编写**
