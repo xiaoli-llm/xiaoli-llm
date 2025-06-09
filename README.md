@@ -29,6 +29,11 @@
 - **向量数据库**
   - milvus
 - **docker(learning)**
+- **Transformer架构**
+  - token机制
+    - BPE（Byte Pair Encoding）
+  - embedding
+    -RoPE
 ### 📚 近期学习计划
 - **CUDA编程（learning）**
   - cublas
