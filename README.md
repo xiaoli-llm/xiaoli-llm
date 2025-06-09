@@ -33,7 +33,7 @@
   - token机制
     - BPE（Byte Pair Encoding）
   - embedding
-    -RoPE
+    - RoPE
 ### 📚 近期学习计划
 - **CUDA编程（learning）**
   - cublas
