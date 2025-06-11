@@ -33,9 +33,9 @@
 - **docker(learning)**
 - **Transformer架构**
   - 对主流大模型的原理和差异有深入的理解：GPT、chatGPT、T5、GLM、PaLM、LLaMA、qwen
-  - token机制
+  - token机制 √
     - BPE（Byte Pair Encoding）
-  - embedding
+  - embedding √
     - RoPE
   - attention
   - attention变种
