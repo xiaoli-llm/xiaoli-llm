@@ -31,7 +31,7 @@
 - **向量数据库**
   - milvus
 - **docker(learning)**
-- **Transformer架构**
+- **Transformer架构（zomi酱）**
   - 对主流大模型的原理和差异有深入的理解：GPT、chatGPT、T5、GLM、PaLM、LLaMA、qwen
   - token机制 √
     - BPE（Byte Pair Encoding）
