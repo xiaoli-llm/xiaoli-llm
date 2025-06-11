@@ -37,7 +37,10 @@
     - BPE（Byte Pair Encoding）
   - embedding
     - RoPE
-  - 
+  - attention
+  - attention变种
+  - 长序列挑战
+  - 大模型参数配置及比例
 ### 📚 近期学习计划
 - **CUDA编程（learning）**
   - cublas
