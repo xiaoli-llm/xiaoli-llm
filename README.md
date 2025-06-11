@@ -32,7 +32,7 @@
   - milvus
 - **docker(learning)**
 - **Transformer架构**
-  - 对主流大模型的原理和差异有深入的理解
+  - 对主流大模型的原理和差异有深入的理解：GPT、chatGPT、T5、GLM、PaLM、LLaMA、qwen
   - token机制
     - BPE（Byte Pair Encoding）
   - embedding
@@ -66,7 +66,6 @@
  - **端侧落地**
  - **多模态大模型视觉信息语义分割与编码（多模态后学）**
  - **视觉与语言的语义对齐，多模态任务联合训练（多模态后学）**
- - **对主流大模型的原理和差异有深入的理解：GPT、chatGPT、T5、GLM、PaLM、LLaMA、qwen**
  - **强化学习**
  - **RL对齐RLHF**
  - **模型评估**
