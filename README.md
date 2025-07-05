@@ -4,6 +4,8 @@
 - **大模型训练**
   - 混合精度训练
   - 分布式并行
+    - Deepspeed  
+    - Megatron-LM
   - 算子和显存优化
 - **LORA微调**
 - **模型量化**
@@ -43,9 +45,6 @@
   - attention变种
   - 长序列挑战
   - 大模型参数配置及比例
-- **大模型分布式训练（未用）**
-  - Deepspeed
-  - Megatron-LM
 ### 📚 近期学习计划
 - **CUDA编程（learning）**
   - cublas
