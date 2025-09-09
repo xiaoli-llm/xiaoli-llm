@@ -7,11 +7,10 @@
     - Deepspeed  
     - Megatron-LM
   - 算子和显存优化
-- **LORA微调**
+- **大模型结构**
+  - transformer、deepseek、千问、llama
 - **模型量化**
   - llama.cpp
-- **Llama系列简要原理**
-- **PPO**
 - **大模型推理加速**
   - vLLM（无二次开发能力，快速部署可以考虑）
   - TensorRT-LLM
@@ -19,10 +18,13 @@
   - sglang（对性能有要求或者团队二次开发能力强可以使用）
 - **Flash attention**
 - **大模型预训练**
+- **强化学习**
+  - PPO、DPO、RLHF、GRPO、GSPO、GAPO
 - **大模型部署**
   - ollama
 - **大模型微调**
   - Llama Factory - llama3,Qwen系列大模型
+  - LORA微调
 - **多模态大模型**
   - VIT
 - **gradio**
@@ -31,41 +33,28 @@
   - Graph RAG
 - **Agent**
   - dify
-- **deepseek系列**
 - **向量数据库**
   - milvus
 - **docker(learning)（胖虎）**
 - **Transformer架构（zomi酱）**
-  - 对主流大模型的原理和差异有深入的理解：GPT、chatGPT、T5、GLM、PaLM、LLaMA、qwen
   - token机制
     - BPE（Byte Pair Encoding）
-  - embedding
-    - RoPE
-  - attention
   - attention变种
   - 长序列挑战
   - 大模型参数配置及比例
-### 📚 近期学习计划
 - **CUDA编程（learning）**
   - cublas
   - cutlass
 - **量化**
-- **低秩训练**
-- **算子融合**
-- **并行优化**
 - **自制大模型推理框架**
 - **数据工程**
   - 数据清洗
     - 正则表达式
  ### 🎯 未来学习计划
  - **大模型预训练方法**
- - **高效微调**
- - **模型评估**
  - **知识增强与工具增强**
  - **幻觉、安全、时效性等问题解决**
  - **多模态大模型视觉信息语义分割与编码（多模态后学）**
  - **视觉与语言的语义对齐，多模态任务联合训练（多模态后学）**
- - **强化学习**
- - **RL对齐RLHF**
  - **模型评估**
  - **Shell脚本的编写**
