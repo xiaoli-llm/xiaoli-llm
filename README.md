@@ -6,7 +6,7 @@
   - 分布式训练
     - Deepspeed  
     - Megatron-LM
-  - 算子和显存优化
+    - FSDP
 - **大模型结构**
   - transformer、deepseek、千问、llama
 - **模型量化**
@@ -20,11 +20,13 @@
 - **大模型预训练**
 - **强化学习**
   - PPO、DPO、RLHF、GRPO、GSPO、GAPO
+  - TRL库
 - **大模型部署**
   - ollama
 - **大模型微调**
   - Llama Factory - llama3,Qwen系列大模型
   - LORA微调
+  - HuggingFace代码微调
 - **多模态大模型**
   - VIT
 - **gradio**
@@ -35,6 +37,7 @@
   - dify
 - **向量数据库**
   - milvus
+  - chromaDB
 - **docker(learning)（胖虎）**
 - **Transformer架构（zomi酱）**
   - token机制
@@ -45,6 +48,7 @@
 - **CUDA编程（learning）**
   - cublas
   - cutlass
+- **triton**
 - **自制大模型推理框架**
 - **数据工程**
   - 数据清洗
@@ -54,3 +58,4 @@
  - **多模态大模型视觉信息语义分割与编码（多模态后学）**
  - **视觉与语言的语义对齐，多模态任务联合训练（多模态后学）**
  - **Shell脚本的编写**
+ - **langchain,llama index,langraph**
