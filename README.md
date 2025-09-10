@@ -3,34 +3,31 @@
 ### 🤖 大模型相关技术栈
 - **大模型结构**
   - transformer、deepseek、千问、llama
-
+- **相关API使用**
 - **大模型训练**
+  - 预训练
   - 混合精度训练
   - 分布式训练
     - Deepspeed  
     - Megatron-LM
     - FSDP
-
+- **大模型微调**
+  - Llama Factory - llama3,Qwen系列大模型
+  - LORA微调
+  - HuggingFace代码微调
 - **模型量化**
   - llama.cpp
 - **大模型推理加速**
   - vLLM（无二次开发能力，快速部署可以考虑）
+  - Flash attention
   - TensorRT-LLM
   - Imdeploy（国内GPU硬件或者部署多模态大模型可以使用）
   - sglang（对性能有要求或者团队二次开发能力强可以使用）
-- **Flash attention**
-- **大模型预训练**
 - **强化学习**
   - PPO、DPO、RLHF、GRPO、GSPO、GAPO
   - TRL库
 - **大模型部署**
   - ollama
-- **大模型微调**
-  - Llama Factory - llama3,Qwen系列大模型
-  - LORA微调
-  - HuggingFace代码微调
-- **多模态大模型**
-  - VIT
 - **gradio**
 - **RAG**
   - llama index
