@@ -1,9 +1,12 @@
 # 🚀 大模型小白成长之路
 
-### 🤖 大模型相关技术栈
 - **大模型结构**
   - transformer、deepseek、千问、llama
-- **相关API使用**
+- **Python 高级编程（装饰器、生成器、上下文管理器）与核心操作（张量、autograd、module、dataloader）**
+- **Hugging Face相关API使用**
+- **数据工程与预处理**
+  - 数据清洗
+    - 正则表达式
 - **大模型训练**
   - 预训练
   - 混合精度训练
@@ -12,9 +15,13 @@
     - Megatron-LM
     - FSDP
 - **大模型微调**
-  - Llama Factory - llama3,Qwen系列大模型
-  - LORA微调
-  - HuggingFace代码微调
+  - *SFT*
+    - Llama Factory - llama3,Qwen系列大模型
+    - LORA微调
+    - HuggingFace代码微调
+  - *强化微调*
+    - PPO、DPO、RLHF、GRPO、GSPO、GAPO
+    - TRL库
 - **模型量化**
   - llama.cpp
 - **大模型推理加速**
