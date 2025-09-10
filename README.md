@@ -1,14 +1,16 @@
 # 🚀 大模型小白成长之路
 
 ### 🤖 大模型相关技术栈
+- **大模型结构**
+  - transformer、deepseek、千问、llama
+
 - **大模型训练**
   - 混合精度训练
   - 分布式训练
     - Deepspeed  
     - Megatron-LM
     - FSDP
-- **大模型结构**
-  - transformer、deepseek、千问、llama
+
 - **模型量化**
   - llama.cpp
 - **大模型推理加速**
