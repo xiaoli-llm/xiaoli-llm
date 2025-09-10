@@ -30,29 +30,23 @@
   - TensorRT-LLM
   - Imdeploy（国内GPU硬件或者部署多模态大模型可以使用）
   - sglang（对性能有要求或者团队二次开发能力强可以使用）
-- **强化学习**
-  - PPO、DPO、RLHF、GRPO、GSPO、GAPO
-  - TRL库
 - **大模型部署**
   - ollama
 - **gradio**
 - **RAG**
+  - *向量数据库*
+    - milvus
+    - chromaDB
   - llama index
   - Graph RAG
 - **Agent**
   - dify
-- **向量数据库**
-  - milvus
-  - chromaDB
+  - langchain,llama index,langraph
 - **docker(learning)（胖虎）**
 - **CUDA编程（learning）**
   - cublas
   - cutlass
 - **triton**
 - **自制大模型推理框架**
-- **数据工程**
-  - 数据清洗
-    - 正则表达式
 - **幻觉、安全、时效性等问题解决**
 - **Shell脚本的编写**
-- **langchain,llama index,langraph**
