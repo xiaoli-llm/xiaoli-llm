@@ -2,7 +2,7 @@
 
 - **大模型结构**
   - transformer、deepseek、千问、llama
-- **Python 高级编程（装饰器、生成器、上下文管理器）与核心操作（张量、autograd、module、dataloader）**
+- **Python 高级编程（装饰器、生成器、上下文管理器）与Pytorch核心操作（张量、autograd、module、dataloader）**
 - **Hugging Face相关API使用**
 - **数据工程与预处理**
   - 数据清洗
