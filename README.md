@@ -14,21 +14,6 @@
   
 </div>
 
-
-# ⛰️ 动手做大模型系列 🎮
-
-如果你在实操的过程中遇到问题，请在对应的视频下方留言。
-复现遇到bug，请描述：
-1. 🎯 运行环境
-2. 🧩 对应的代码、日志和报错截图
-
-有感兴趣的内容或问题，[点击这里加入讨论🎉](https://github.com/echonoshy/cgft-llm/discussions)。
-
-> 如果你不太了解如何提出一个好问题，请花几分钟阅读一下这个，相信我，可能并不能改变什么🤫（不是）。  
-> [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)  
-
-
-
 ## 🔬 视频及文档合集
 
 ### ⚡ 1. 大模型核心技术
@@ -57,58 +42,5 @@
 | 20 | langfuse llm服务监控平台 | [langfuse](docs/langfuse.md) | ![Duration](https://img.shields.io/badge/Duration-26:15-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1tUpDzwEr3)](https://www.bilibili.com/video/BV1tUpDzwEr3) <br> [![youtube](https://img.shields.io/youtube/views/nswdes0AlFY?style=social)](https://youtu.be/nswdes0AlFY) |
 | 21 | fastmcp 实现mcp服务端和客户端 | [fastmcp]() | ![Duration](https://img.shields.io/badge/Duration-26:01-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1rE1SBpEha)](https://www.bilibili.com/video/BV1rE1SBpEha) <br> [![youtube](https://img.shields.io/youtube/views/6vY0aJITFb4?style=social)](https://youtu.be/6vY0aJITFb4) |
 
-### 🛵 2. 动手加入开源
-
-> 主要讲开源项目规范的一些内容。
-
-| 序号 | 项目 | 代码文档 | 视频时长 | 视频教程 |
-|------|------|----------|----------|----------|
-| 1 | python工程实践 · 依赖管理：uv | [uv](docs/uv.md) | ![Duration](https://img.shields.io/badge/Duration-24:11-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV179YKzjEx6)](https://www.bilibili.com/video/BV179YKzjEx6) <br> [![youtube](https://img.shields.io/youtube/views/RJbxIaVFGSM?style=social)](https://youtu.be/RJbxIaVFGSM) |
-| 2 | python工程实践 · 代码规范：ruff | [ruff](docs/ruff.md) | ![Duration](https://img.shields.io/badge/Duration-21:50-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1zwpLz2Exh)](https://www.bilibili.com/video/BV1zwpLz2Exh) <br> [![youtube](https://img.shields.io/youtube/views/fm-zgDFAqNY?style=social)](https://youtu.be/fm-zgDFAqNY) |
-| 3 | 代码提交检查：pre-commit | [pre-commit](docs/pre-commit.md) | ![Duration](https://img.shields.io/badge/Duration-11:21-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1P5nfz6EKb)](https://www.bilibili.com/video/BV1P5nfz6EKb) <br> [![youtube](https://img.shields.io/youtube/views/DtSHvJmM4Lo?style=social)](https://youtu.be/DtSHvJmM4Lo) |
-
-
-### 🔋 3. 模块知识专题系列
-
-> 专题系列会以多个视频介绍同一个主题，分P的形式展示，即共用一个video url。
-
-| 序号 | 项目 | 代码文档 | 视频时长 | 视频教程 |
-|------|------|----------|----------|----------|
-| 1 | kaggle 大模型竞赛系列  （🏊更新至01期） | [kaggle](kaggle/getting-started.ipynb) | ![Duration](https://img.shields.io/badge/Duration-25:41-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1vVayeREVe)](https://www.bilibili.com/video/BV1vVayeREVe/) <br> [![youtube](https://img.shields.io/youtube/views/Mz4V3zinMYI?style=social)](https://youtu.be/Mz4V3zinMYI) |
-| 2 | gradio 使用python构建并分享AI应用（🏊已完结） | [gradio](gradio/README.md) | ![Duration](https://img.shields.io/badge/Duration-70:51-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1TK66YYEvJ)](https://www.bilibili.com/video/BV1TK66YYEvJ/) <br> [![youtube](https://img.shields.io/youtube/views/sRW_Q0Wzzwo?style=social)](https://youtu.be/sRW_Q0Wzzwo) |
-| 3 | docker 容器化部署（🏊已完结）| [docker](docker/README.md) | ![Duration](https://img.shields.io/badge/Duration-62:59-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1o7y7Y8EZ1)](https://www.bilibili.com/video/BV1o7y7Y8EZ1/) <br> [![youtube](https://img.shields.io/youtube/views/DeYNR47abG8?style=social)](https://youtu.be/DeYNR47abG8) |
-
-
-
-### 🙌🏻 4. 不着调的AI项目
-
-> 将一些脑洞大开的点子落地成AI项目的不着调专题，应该有点意思吧，哈哈哈。
-
-| 序号 | 项目 | 代码文档 | 视频时长 | 视频教程 |
-|------|------|----------|----------|----------|
-| 1 | D.Va: 基于deepseek优化的端到端多人播客工具 | [d.va](https://github.com/echonoshy/d.va) | ![Duration](https://img.shields.io/badge/Duration-13:42-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1miAYeMEqg)](https://www.bilibili.com/video/BV1gYzEYrEQt/) <br> [![youtube](https://img.shields.io/youtube/views/XjpNdvl-vvY?style=social)](https://youtu.be/XjpNdvl-vvY) |
-| 2 | 听舒: 换声引擎-用作者的声音读自传 | [tingshu](https://github.com/echonoshy/tingshu) | ![Duration](https://img.shields.io/badge/Duration-4:16-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1miAYeMEqg)](https://www.bilibili.com/video/BV1gYzEYrEQt/) <br> [![youtube](https://img.shields.io/youtube/views/TdCrbDvICbw?style=social)](https://youtu.be/TdCrbDvICbw) |
-| 3 | 猎空: LLM+微信自动化资讯机器人 | [tracer](https://github.com/echonoshy/tracer) | ![Duration](https://img.shields.io/badge/Duration-15:11-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV15GXQY3Ez3)](https://www.bilibili.com/video/BV15GXQY3Ez3/) <br> [![youtube](https://img.shields.io/youtube/views/GQqbYRp5GYI?style=social)](https://youtu.be/GQqbYRp5GYI) |
-
-
-
-### 🏖️ 5. 番外篇
-
-> 懒得分类的技术合集。
-
-| 序号 | 项目 | 代码文档 | 视频时长 | 视频教程 |
-|------|------|----------|----------|----------|
-| 1 | B站实现动态转发抽奖 | [bilibili-lottery](dulldrum/bilibili_lottery/bilibili_lottery.md) | ![Duration](https://img.shields.io/badge/Duration-4:40-blue) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1zdDpYhEqj)](https://www.bilibili.com/video/BV1zdDpYhEqj/) <br> [![youtube](https://img.shields.io/youtube/views/Bnb92NG30us?style=social)](https://youtu.be/Bnb92NG30us) |
-
-
-
-
-### 📇 6.会议篇
-
-> 收集整理AI相关会议的演讲资料和技术分享，方便学习和参考。
-
-| 序号 | 会议名称 | 时间 | 主题领域 | 资料链接 |
-|------|----------|------|----------|----------|
-| 1 | AICON-2025 AI Conference | 2025年 | AI技术与产业应用 | [会议PPT](conferences/AICON-2025.md) |
-
+(https://img.shields.io/youtube/views/DtSHvJmM4Lo?style=social)](https://youtu.be/DtSHvJmM4Lo) 
 
