@@ -1,22 +1,4 @@
-<p align="center">
-  <img src="assets/logo-min.png" width="580" alt="Hands on LLMs"/>
-</p>
-
-<div align="center">
-
-  ![GitHub stars](https://img.shields.io/github/stars/echonoshy/cgft-llm?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/echonoshy/cgft-llm?style=social)
-  ![GitHub watchers](https://img.shields.io/github/watchers/echonoshy/cgft-llm?style=social)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/echonoshy/cgft-llm)
-  ![GitHub language count](https://img.shields.io/github/languages/count/echonoshy/cgft-llm)
-  ![GitHub top language](https://img.shields.io/github/languages/top/echonoshy/cgft-llm)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/echonoshy/cgft-llm?color=red)
-  
-</div>
-
-## 🔬 视频及文档合集
-
-### ⚡ 1. 大模型核心技术
+### ⚡ 大模型
 
 | 序号 | 项目 | 代码文档 | 视频时长 | 视频教程 |
 |------|------|----------|----------|----------|
