@@ -50,3 +50,7 @@
 - **自制大模型推理框架**
 - **幻觉、安全、时效性等问题解决**
 - **Shell脚本的编写**
+| 序号 | 项目 | 代码文档 | 视频时长 | 视频教程 |
+|------|------|----------|----------|----------|
+| 1 | 使用llama-factory微调llama3 | [llama-factory](https://github.com/your-repo/llama-factory) | <span style="background-color:#555; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Duration <span style="background-color:#007acc; padding:2px 5px; border-radius:3px;">35:28</span></span> | <span style="display:inline-block; background:#f0f0f0; padding:2px 6px; border-radius:4px; margin-right:5px; font-size:12px;">📊 Views 45186</span><br><span style="display:inline-block; background:#f0f0f0; padding:2px 6px; border-radius:4px; margin-right:5px; font-size:12px;">▶️ Views 2.9k</span> |
+| 2 | 训练数据整理以及微调优化建议 | [training-dataset](https://github.com/your-repo/training-dataset) | <span style="background-color:#555; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Duration <span style="background-color:#007acc; padding:2px 5px; border-radius:3px;">20:13</span></span> | <span style="display:inline-block; background:#f0f0f0; padding:2px 6px; border-radius:4px; margin-right:5px; font-size:12px;">📊 Views 28544</span><br><span style="display:inline-block; background:#f0f0f0; padding:2px 6px; border-radius:4px; margin-right:5px; font-size:12px;">▶️ Views 11k</span> |
